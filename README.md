@@ -12,8 +12,8 @@ This project demonstrates how to use IAM permissions boundaries in AWS to restri
 
 ## 📁 Files Included
 - `IAM-Permissions-Boundary-Project-SyedaUmaimaAbeer.pdf` – Full project report with screenshots
-- `permissions-boundary.json` – Sample boundary policy (optional)
-- `screenshots/` – Visual walkthrough (optional)
+- `permissions-boundary.json` – Sample boundary policy 
+- `screenshots/` – Visual walkthrough 
 
 ## 🧠 Skills Practiced
 - IAM policies & boundaries
